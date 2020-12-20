@@ -1,0 +1,401 @@
+ESTE ARCHIVO CONTIENE UNA LISTA DE CASOS Y SOLUCIONES PARA EL PROBLEMA DEL HUEVO
+====================
+Eggs: 22
+Floors: 70
+Moves: 7
+====================
+Eggs: 58
+Floors: 72
+Moves: 7
+====================
+Eggs: 17
+Floors: 62
+Moves: 6
+====================
+Eggs: 92
+Floors: 33
+Moves: 6
+====================
+Eggs: 53
+Floors: 38
+Moves: 6
+====================
+Eggs: 24
+Floors: 72
+Moves: 7
+====================
+Eggs: 6
+Floors: 74
+Moves: 7
+====================
+Eggs: 23
+Floors: 59
+Moves: 6
+====================
+Eggs: 90
+Floors: 52
+Moves: 6
+====================
+Eggs: 55
+Floors: 28
+Moves: 5
+====================
+Eggs: 54
+Floors: 1
+Moves: 1
+====================
+Eggs: 8
+Floors: 6
+Moves: 3
+====================
+Eggs: 16
+Floors: 65
+Moves: 7
+====================
+Eggs: 2
+Floors: 42
+Moves: 9
+====================
+Eggs: 11
+Floors: 18
+Moves: 5
+====================
+Eggs: 73
+Floors: 81
+Moves: 7
+====================
+Eggs: 44
+Floors: 40
+Moves: 6
+====================
+Eggs: 81
+Floors: 59
+Moves: 6
+====================
+Eggs: 80
+Floors: 37
+Moves: 6
+====================
+Eggs: 49
+Floors: 33
+Moves: 6
+====================
+Eggs: 95
+Floors: 70
+Moves: 7
+====================
+Eggs: 32
+Floors: 28
+Moves: 5
+====================
+Eggs: 47
+Floors: 40
+Moves: 6
+====================
+Eggs: 23
+Floors: 91
+Moves: 7
+====================
+Eggs: 50
+Floors: 93
+Moves: 7
+====================
+Eggs: 33
+Floors: 53
+Moves: 6
+====================
+Eggs: 33
+Floors: 15
+Moves: 4
+====================
+Eggs: 59
+Floors: 21
+Moves: 5
+====================
+Eggs: 79
+Floors: 24
+Moves: 5
+====================
+Eggs: 65
+Floors: 25
+Moves: 5
+====================
+Eggs: 51
+Floors: 13
+Moves: 4
+====================
+Eggs: 80
+Floors: 21
+Moves: 5
+====================
+Eggs: 25
+Floors: 54
+Moves: 6
+====================
+Eggs: 24
+Floors: 57
+Moves: 6
+====================
+Eggs: 31
+Floors: 87
+Moves: 7
+====================
+Eggs: 10
+Floors: 47
+Moves: 6
+====================
+Eggs: 31
+Floors: 64
+Moves: 7
+====================
+Eggs: 87
+Floors: 61
+Moves: 6
+====================
+Eggs: 51
+Floors: 96
+Moves: 7
+====================
+Eggs: 30
+Floors: 45
+Moves: 6
+====================
+Eggs: 8
+Floors: 20
+Moves: 5
+====================
+Eggs: 85
+Floors: 41
+Moves: 6
+====================
+Eggs: 14
+Floors: 32
+Moves: 6
+====================
+Eggs: 31
+Floors: 93
+Moves: 7
+====================
+Eggs: 63
+Floors: 63
+Moves: 6
+====================
+Eggs: 80
+Floors: 43
+Moves: 6
+====================
+Eggs: 78
+Floors: 100
+Moves: 7
+====================
+Eggs: 100
+Floors: 96
+Moves: 7
+====================
+Eggs: 39
+Floors: 97
+Moves: 7
+====================
+Eggs: 54
+Floors: 93
+Moves: 7
+====================
+Eggs: 2
+Floors: 18
+Moves: 6
+====================
+Eggs: 24
+Floors: 42
+Moves: 6
+====================
+Eggs: 67
+Floors: 89
+Moves: 7
+====================
+Eggs: 49
+Floors: 34
+Moves: 6
+====================
+Eggs: 12
+Floors: 56
+Moves: 6
+====================
+Eggs: 4
+Floors: 10
+Moves: 4
+====================
+Eggs: 57
+Floors: 77
+Moves: 7
+====================
+Eggs: 91
+Floors: 78
+Moves: 7
+====================
+Eggs: 76
+Floors: 75
+Moves: 7
+====================
+Eggs: 48
+Floors: 12
+Moves: 4
+====================
+Eggs: 58
+Floors: 74
+Moves: 7
+====================
+Eggs: 5
+Floors: 58
+Moves: 6
+====================
+Eggs: 64
+Floors: 88
+Moves: 7
+====================
+Eggs: 6
+Floors: 7
+Moves: 3
+====================
+Eggs: 55
+Floors: 93
+Moves: 7
+====================
+Eggs: 39
+Floors: 78
+Moves: 7
+====================
+Eggs: 52
+Floors: 13
+Moves: 4
+====================
+Eggs: 14
+Floors: 70
+Moves: 7
+====================
+Eggs: 84
+Floors: 61
+Moves: 6
+====================
+Eggs: 20
+Floors: 100
+Moves: 7
+====================
+Eggs: 67
+Floors: 21
+Moves: 5
+====================
+Eggs: 2
+Floors: 43
+Moves: 9
+====================
+Eggs: 58
+Floors: 9
+Moves: 4
+====================
+Eggs: 39
+Floors: 11
+Moves: 4
+====================
+Eggs: 27
+Floors: 9
+Moves: 4
+====================
+Eggs: 16
+Floors: 32
+Moves: 6
+====================
+Eggs: 75
+Floors: 58
+Moves: 6
+====================
+Eggs: 39
+Floors: 67
+Moves: 7
+====================
+Eggs: 83
+Floors: 70
+Moves: 7
+====================
+Eggs: 80
+Floors: 51
+Moves: 6
+====================
+Eggs: 18
+Floors: 58
+Moves: 6
+====================
+Eggs: 28
+Floors: 26
+Moves: 5
+====================
+Eggs: 26
+Floors: 85
+Moves: 7
+====================
+Eggs: 75
+Floors: 64
+Moves: 7
+====================
+Eggs: 63
+Floors: 11
+Moves: 4
+====================
+Eggs: 27
+Floors: 7
+Moves: 3
+====================
+Eggs: 78
+Floors: 63
+Moves: 6
+====================
+Eggs: 89
+Floors: 79
+Moves: 7
+====================
+Eggs: 54
+Floors: 19
+Moves: 5
+====================
+Eggs: 25
+Floors: 81
+Moves: 7
+====================
+Eggs: 84
+Floors: 68
+Moves: 7
+====================
+Eggs: 58
+Floors: 79
+Moves: 7
+====================
+Eggs: 32
+Floors: 56
+Moves: 6
+====================
+Eggs: 65
+Floors: 16
+Moves: 5
+====================
+Eggs: 85
+Floors: 8
+Moves: 4
+====================
+Eggs: 31
+Floors: 24
+Moves: 5
+====================
+Eggs: 87
+Floors: 59
+Moves: 6
+====================
+Eggs: 29
+Floors: 44
+Moves: 6
+====================
+Eggs: 77
+Floors: 99
+Moves: 7
+====================
+Eggs: 21
+Floors: 57
+Moves: 6
